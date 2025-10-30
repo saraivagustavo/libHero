@@ -1,8 +1,10 @@
 # 🦸‍♂️ Hero Lib
 
-[![Status do Workflow](https://img.shields.io/github/actions/workflow/status/saraivagustavo/libHero/publish.yml?branch=main&style=for-the-badge)](https://github.com/saraivagustavo/libHero/actions)
+[![Status do
+Workflow](https://img.shields.io/github/actions/workflow/status/saraivagustavo/libHero/publish.yml?branch=main&style=for-the-badge)](https://github.com/saraivagustavo/libHero/actions)
 [![PyPI](https://img.shields.io/pypi/v/saraivaHeroLib?style=for-the-badge)](https://pypi.org/project/saraivaHeroLib/)
-[![Versão do Python](https://img.shields.io/pypi/pyversions/saraivaHeroLib?style=for-the-badge)](https://pypi.org/project/saraivaHeroLib/)
+[![Versão do
+Python](https://img.shields.io/pypi/pyversions/saraivaHeroLib?style=for-the-badge)](https://pypi.org/project/saraivaHeroLib/)
 [![Licença](https://img.shields.io/pypi/l/saraivaHeroLib?style=for-the-badge)](https://pypi.org/project/saraivaHeroLib/)
 
 A **Hero Lib** é uma biblioteca Python para o gerenciamento de **Heróis** e suas respectivas **Habilidades**, criada com o objetivo de demonstrar uma arquitetura limpa e desacoplada entre **camada de domínio** e **camada de API**.
