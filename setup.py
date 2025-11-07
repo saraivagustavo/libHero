@@ -24,6 +24,7 @@ setup(
     install_requires=[
         "sqlmodel",
         "typing_extensions",
+        "fastapi",
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

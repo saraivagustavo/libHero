@@ -28,7 +28,7 @@ jobs: # definição dos jobs (tarefas) que serão executadas no workflow
         run: | # instala as dependências necessárias para build e teste
           python -m pip install --upgrade pip 
           python -m pip install build twine pytest
-          pip install -r requirements.txt
+          pip install -e .[dev]
 
       - name: Install lib locally
         run: |
